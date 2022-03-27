@@ -6,7 +6,7 @@
   },
   "description": "programming exercise",
   "scripts": {
-    "start": "ts-node --files src/start.ts",
+    "start": "ts-node --files src/people-power.ts",
     "test": "jest --coverage --runInBand"
   },
   "jest": {
